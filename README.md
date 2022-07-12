@@ -31,4 +31,7 @@ To fix this problem you will need to download the GuestAddition, to do that, fol
 
 ![](images/Guest.png)
 
-### 3 - Download ROS: 
+### 3 - Download ROS and Gazebo: 
+You may follow the steps in this article: https://varhowto.com/install-ros-noetic-ubuntu-20-04/ 
+For step 4 I recommend to install the ros-noetic-desktop-full package in case you want to install gazebo. 
+Gazebo is a userinterface software simulator including libraries and cloud services. 
