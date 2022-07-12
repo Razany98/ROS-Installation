@@ -13,6 +13,8 @@ This is the VirtualBox homepage when the installation is done:
 After installing many versions of Ubuntu, the best version that worked & installed successfully with me is Ubuntu 20.04. So, I recommend downloading this version. For the installation instructions follow the steps in the below video. 
 https://www.youtube.com/watch?v=x5MhydijWmc&t=973s 
 
-Put in mind that inatalling ROS and Ubuntu may take long time upto 2 hours. 
-You will realise when this process is done, that you can't maximize the window & Can't copy/paste. 
-So to fix this problem you will need to download the GuestAddition, to do that follow the following steps: 
+📌 Put in mind that inatalling ROS and Ubuntu may take long time upto 2 hours. 
+
+When this process is done, you will see that you can't maximize the window & Can't copy/paste. 
+So to fix this problem you will need to download the GuestAddition, to do that, follow the following steps: 
+- From the upper toolbox on the Ubuntu window choose Devices then 
