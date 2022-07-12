@@ -17,4 +17,14 @@ https://www.youtube.com/watch?v=x5MhydijWmc&t=973s
 
 When this process is done, you will see that you can't maximize the window & Can't copy/paste. 
 So to fix this problem you will need to download the GuestAddition, to do that, follow the following steps: 
-- From the upper toolbox on the Ubuntu window choose Devices then 
+- From the upper toolbox on the Ubuntu window choose Devices then Insert Guest Additions CD image... 
+
+![](images/GuestAddition.png) 
+
+- Choose Run GuestAddition 
+
+![](images/Run-Guest-Additions.png)
+
+- Wait until the installation is done; log out or close the window and you will see that the GuestAddition is added. 
+
+![](images/Guest.png)
